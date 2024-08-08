@@ -8,7 +8,7 @@ Junior Programmer
 I'm a computer science student at Rangsit University, and I want to explore new and interesting things in my career path.
 
 * 🌍  I'm based in Thailand.
-* ✉️  You can contact me at [anupatkaewmee@gmail.com](mailto:anupatkaewmee@gmail.com)
+* ✉️  You can contact me at [anupat.kae@gmail.com](mailto:anupat.kae@gmail.com)
 * 🧠  I'm learning things to improve my skill as a programmer.
 * 🤝  I'm open to collaborating on project that makes me money.
 
